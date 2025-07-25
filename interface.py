@@ -19,7 +19,7 @@ st.markdown("""
             border-radius: 20px;
             max-height: 300px;
             overflow-y: auto;
-            font-size: 19px;
+            font-size: 17px;
             line-height: 1.8;
             color: #222;
         }
